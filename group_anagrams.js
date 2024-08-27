@@ -30,13 +30,3 @@ var groupAnagrams = function(strs) {
   }
   return (Array.from(grouppedAnagrams.values()))
 };
-
-// ------ Complexidade de tempo ---------
-// percorrendo o array de strs O(n)
-// ordenando a string O(n log n) -> https://www.geeksforgeeks.org/timsort/
-// adicionando no map O(1)
-// Complexidade de tempo: O(n log n)
-
-// ------ Complexidade de espaço ---------
-// agrupamento dos anagramas map -> O(n)
-// Complexidade de espaço: O(n)
