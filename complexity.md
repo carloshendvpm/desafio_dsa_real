@@ -1,7 +1,7 @@
 # [Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements/description/)
 ## Complexidade de Tempo e Espaço
 
-## Complexidade de Tempo
+### Complexidade de Tempo
 
 - Percorrendo o array de `nums`: `O(n)`
 - Adicionando no map: `O(1)`
@@ -12,7 +12,7 @@
 
 **Complexidade de Tempo Total**: `O(n log n)`
 
-## Complexidade de Espaço
+### Complexidade de Espaço
 
 - `map`: `O(n)`
 - `entries`: `O(n)` - Por armazenar todos os elementos do `map`, que tem `n` elementos.
@@ -23,7 +23,7 @@
 
 # [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
-## Complexidade de Tempo e Espaço
+### Complexidade de Tempo e Espaço
 
 ## Complexidade de Tempo
 

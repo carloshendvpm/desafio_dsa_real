@@ -1,5 +1,7 @@
 ## Desafio Real Seguro Viagem - Carimbo de Tecnologia
 
+## [Conferir Complexidade de Tempo e Espaço](./complexity.md)
+
 ### Descrição do Desafio
 Como parte do desafio da Real Seguro Viagem para obter o carimbo de tecnologia, foram resolvidas algumas questões do LeetCode. A lista de problemas inclui questões de dificuldade média e difícil, abrangendo diferentes áreas de algoritmos e estruturas de dados.
 
